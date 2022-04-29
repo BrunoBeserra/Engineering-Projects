@@ -1,2 +1,3 @@
 # Engineering-Projects
-Repository to save Engineering Projects as ckts squemes and automation tests
+
+Created this repository to save my Engineering Projects such as ckts schemes and automation studies.
